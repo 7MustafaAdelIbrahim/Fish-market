@@ -5,7 +5,9 @@ This dataset is a record of 7 common different fish species in fish market sales
 We have 7 columns
 
 •	Species: species name of fish
+
 •	Weight: weight of fish in Gram g
+
 •	Length1: vertical length in cm
 
 •	Length2: diagonal length in cm
